@@ -120,9 +120,11 @@ blog-app/
 │ └── style.css # Stylesheet
 └── js/
 └── script.js # Client-side JS
+
+---
 ##Visit
 http://localhost:3001
-
+---
 ## ⚙️ Installation
 
 ### 1️⃣ Clone the Repository
